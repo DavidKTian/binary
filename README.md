@@ -1,2 +1,2 @@
-# binary
-a collection of python programs that can convert input from binary to denary and vice-versa
+# teaching
+A collection of some of the programs I made using Python for my classes at an international school in South Korea
